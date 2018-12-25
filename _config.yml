@@ -3,7 +3,7 @@ title: HH Treecare
 email: HHTreecare@gmail.com
 description: Coming Soon to Ingleby Barwick  |  Full Spectrum Tree Care  |  Contract Climbing  |  Veteran Owned and Operated 
 keywords: "Ingleby Barwick, Arborist, Contract Climber, Forces Discount, Tree Surgeon"  # html meta keywords
-baseurl: "" # the subpath of site
+baseurl: "/" # the subpath of site
 url: "" # the base hostname & protocol of site
 
 # Social Settings
