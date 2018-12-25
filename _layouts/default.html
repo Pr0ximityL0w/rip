@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+
+<html>
+	
+{% include head.html %}
+	
+<body>
+    
+<!-- Header -->
+<header id="header">
+	<h1>{{ site.title }}</h1>
+	<p>{{ site.description }}</p>
+</header>
+	
+<!-- Signup Form -->	
+	
+<form action="https://formspree.io/hhtreecare@gmail.com" method="POST">
+  	<input type="text" name="name" id="email" placeholder="Email Address" style="display: inline-block; width: 300px;" />
+	<input type="submit" value=" Get Intouch " style="margin-left: 20px;">
+</form>	
+
+<!-- Footer -->
+
+{% include footer.html %}
+
+</body>
+</html>
